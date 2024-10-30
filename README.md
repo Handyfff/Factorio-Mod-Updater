@@ -4,7 +4,7 @@ A program for updating your Factorio mods to the latest versions. It does not do
 To download new mods here's an easy method below. It works independently of the updater and supports old verions of Factorio.
 
 # Downloading New Mods
-Simply use this tool [factorio Mod Downloader](https://github.com/vaibhavvikas/factorio-mod-downloader)
+Simply use this tool [Factorio Mod Downloader](https://github.com/vaibhavvikas/factorio-mod-downloader)
 
 If it doesn't work then use the method below.
 
