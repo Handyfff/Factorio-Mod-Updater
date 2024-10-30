@@ -44,6 +44,6 @@ If any problems, ask me by opening an issue.
 # For OS other than Windows
 Install Python for your OS here [Python](https://www.python.org/downloads/Download)  
 Then download FactModUpdt.py from [Releases](https://github.com/Handyfff/Factorio-Mod-Updater/releases)  
-Run the FactModUpdt.py with Command Prompt. I have never used any other OS besides Windows so you should ask ChatGPT how to do it properly.  
+Run the FactModUpdt.py with Command Prompt. I have never used any other OS besides Windows so if you don't know, ask ChatGPT how to do it properly.  
 Edit the mods directory in the .py file if it's not finding your mods folder.  
 If any other errors, open an issue here.
