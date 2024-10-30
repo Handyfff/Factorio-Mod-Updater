@@ -1,4 +1,4 @@
-# Factorio-Mod-Updater
+# Factorio-Mod-Updater (Works Flawlessly for Windows)
 A program for updating your Factorio mods to the latest versions. It does not download new mods or dependencies. It only updates the mods you have in your PC to the latest versions which means they only work on Factorio 2.0 or above if the developer of mods has updated them to 2.0 or above otherwise they may still be viable on older versions of Factorio.
 
 To download new mods here's an easy method below. It works independently of the updater and supports old verions of Factorio.
@@ -42,4 +42,8 @@ You can update your mods anytime but make sure you've the latest version of the 
 If any problems, ask me by opening an issue.
 
 # For OS other than Windows
-Download the FactModUpdt.py from [Releases](https://github.com/Handyfff/Factorio-Mod-Updater/releases) I never used any ther OS besides Windows so edit the mods directory in the script file to whatever your OS has. If any errors, Consult ChatGPT or StackOverflow because I can't help you here, sorry.
+Install Python for your OS here [Python](https://www.python.org/downloads/Download)  
+Then download FactModUpdt.py from [Releases](https://github.com/Handyfff/Factorio-Mod-Updater/releases)  
+Run the FactModUpdt.py with Command Prompt. I have never used any other OS besides Windows so you should ask ChatGPT how to do it properly.  
+Edit the mods directory in the .py file if it's not finding your mods folder.  
+If any other errors, open an issue here.
