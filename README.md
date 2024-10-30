@@ -4,13 +4,18 @@ A program for updating your Factorio mods to the latest versions. It does not do
 To download new mods here's an easy method below. It works independently of the updater and supports old verions of Factorio.
 
 # Downloading New Mods
+Simply use this tool [factorio Mod Downloader](https://github.com/vaibhavvikas/factorio-mod-downloader)
+
+If it doesn't work then use the method below.
+
 For your browser of choice (Chrome, Firefox etc.), search and install "Tampermonkey" extension. Then click this [Script](https://re146.dev/factorio/mods/free-factorio-mods-downloader-en.user.js) It should bring up the install menu for Tampermonkey. Install the script and allow necessary permissions.
 
 Now go to [Factorio Mods](https://mods.factorio.com/)    
 
 Click on the mod of your choice and there should be a "Download from re146.dev" green button on the mod page. If you have a Factorio account logged in, make sure to log out otherwise the button wouldn't be functional. Clicking on that green button will take you to a webpage where you can download the latest or old versions of the mod.
 
-After downloading the mods you like, you should have some .zip files. Use WinRAR, 7Zip or any other compression software to extract all those .zip files. There should be a separate folder for each .zip file after extraction.
+# Installing the Mods 
+After downloading the mods you like, you should have their .zip files. Use WinRAR, 7Zip or any other compression software to extract all those .zip files. There should be a separate folder for each .zip file after extraction.
 
 Then copy all those folders to C:\Users\yourusername\Appdata\Roaming\Factorio\mods. Also, make sure to tick hidden files in the View section of your File Explorer to show AppData folder. 
 
