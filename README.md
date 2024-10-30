@@ -30,4 +30,4 @@ You can update your mods anytime but make sure you've the latest version of the 
 If any problems, ask me by opening an issue.
 
 # For OS other than Windows
-Download the FactModUpdt.py from [Releases](https://github.com/Handyfff/Factorio-Mod-Updater/releases) I never used any ther OS besides Windows so edit the mods directory in the script file to whatever your OS has. But I'm sure you Linux people will love doing that (No Offense).
+Download the FactModUpdt.py from [Releases](https://github.com/Handyfff/Factorio-Mod-Updater/releases) I never used any ther OS besides Windows so edit the mods directory in the script file to whatever your OS has. If any errors, Consult ChatGPT or StackOverflow because I can't help you here, sorry.
