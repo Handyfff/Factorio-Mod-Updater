@@ -24,10 +24,10 @@ If everything goes smooth without any errors then move to Update section below. 
 
 # Updating the Mods
 # For Windows
-To update the mods simply download the FactModUpdt.exe from Releases. Open it. It will go through your mods folder and downloaded the updates if there are any. Updates will be in .zip files and you will extract those files and copy the folders to the mods folder. MAKE SURE TO DELETE THE PREVIOUS FOLDER OF THE MOD YOU'RE UPDATING.
+To update the mods simply download the FactModUpdt.exe from [Releases](https://github.com/Handyfff/Factorio-Mod-Updater/releases) Open it. It will go through your mods folder and downloaded the updates if there are any. Updates will be in .zip files and you will extract those files and copy the folders to the mods folder. MAKE SURE TO DELETE THE PREVIOUS FOLDER OF THE MOD YOU'RE UPDATING.
 
 You can update your mods anytime but make sure you've the latest version of the game before doing so.
 If any problems, ask me by opening an issue.
 
 # For OS other than Windows
-Download the FactModUpdt.py from Releases. I never used any ther OS besides Windows so edit the mods directory in the script file to whatever your OS has. But I'm sure you Linux people will love doing that (No Offense).
+Download the FactModUpdt.py from [Releases](https://github.com/Handyfff/Factorio-Mod-Updater/releases) I never used any ther OS besides Windows so edit the mods directory in the script file to whatever your OS has. But I'm sure you Linux people will love doing that (No Offense).
