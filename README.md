@@ -12,10 +12,15 @@ Click on the mod of your choice and there should be a "Download from re146.dev" 
 
 After downloading the mods you like, you should have some .zip files. Use WinRAR, 7Zip or any other compression software to extract all those .zip files. There should be a separate folder for each .zip file after extraction.
 
-Then copy all those folders to C:\Users\yourusername\Appdata\Roaming\Factorio\mods. Make sure to tick hidden files in the View section of your File Explorer to show AppData folder. 
-After that launch the game.
+Then copy all those folders to C:\Users\yourusername\Appdata\Roaming\Factorio\mods. Also, make sure to tick hidden files in the View section of your File Explorer to show AppData folder. 
 
-if everything goes smooth without any errors then move to Update section below. Otherwise disable the mods causing the errors and make sure to delete their folders from the mods folder mentioned above. 
+If you are using any other OS than Windows then the mods folder should be here:
+For Linux: ~/. factorio/mods.
+For Mac OS X: ~/Library/Application Support/factorio/mods.
+
+After copying and pasting the mods folders, simply launch the game.
+
+If everything goes smooth without any errors then move to Update section below. Otherwise disable the mods causing the errors and make sure to delete their folders from the mods folder mentioned above. 
 
 # Updating the Mods
 # For Windows
@@ -25,4 +30,4 @@ You can update your mods anytime but make sure you've the latest version of the 
 If any problems, ask me by opening an issue.
 
 # For OS other than Windows
-Download the FactModUpdt.py from Releases. I never used any ther OS besides Windows so edit the mods directory in the script file to whatever your OS has. But I'm sure you Linux guys will love doing that.
+Download the FactModUpdt.py from Releases. I never used any ther OS besides Windows so edit the mods directory in the script file to whatever your OS has. But I'm sure you Linux people will love doing that (No Offense).
