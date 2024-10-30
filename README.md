@@ -8,4 +8,4 @@ For your browser of choice (Chrome, Firefox etc.), search and install "Tampermon
 
 Now go to [Factorio Mods](https://mods.factorio.com/)    
 
-Click on the mod of your choice and there should be a "Download from re146.dev" green button on the mod page. If you have a Factorio account logged in, make sure to log out otherwise the button wouldn't be functional. Clicking on download will take you to a webpage where you can download the latest or old versions of the mod.
+Click on the mod of your choice and there should be a "Download from re146.dev" green button on the mod page. If you have a Factorio account logged in, make sure to log out otherwise the button wouldn't be functional. Clicking on that green button will take you to a webpage where you can download the latest or old versions of the mod.
