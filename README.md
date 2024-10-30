@@ -16,10 +16,10 @@ Now go to [Factorio Mods](https://mods.factorio.com/)
 
 Click on the mod of your choice and there should be a "Download from re146.dev" green button on the mod page. If you have a Factorio account logged in, make sure to log out otherwise the button wouldn't be functional. Clicking on that green button will take you to a webpage where you can download the latest or old versions of the mod.
 
-Check if any of these 3 sections are found on the mod's download page:
-Required dependencies: You must download these mods for the original mod to work.
-Optional dependencies: You can ignore these.
-Incompatible mods: These mods will not work with the mod you're trying to download, so never use them TOGETHER.
+Check if any of these 3 sections are found on the mod's download page:  
+Required dependencies: You must download these mods for the original mod to work.  
+Optional dependencies: You can ignore these.  
+Incompatible mods: These mods will not work with the mod you're trying to download, so never use them TOGETHER.  
 
 # Installing the Mods 
 After downloading the mods you like, you should have their .zip files. Use WinRAR, 7Zip or any other compression software to extract all those .zip files. There should be a separate folder for each .zip file after extraction.
