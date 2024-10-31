@@ -1,4 +1,4 @@
-# Factorio-Mod-Updater
+# Factorio Mod Updater
 A program for updating your Factorio mods to the latest versions. It does not download new mods or dependencies. It only updates the mods you have in your PC to the latest versions which means they only work on Factorio 2.0 or above if the developer of mods has updated them to 2.0 or above otherwise they may still be viable on older versions of Factorio.
 
 To download new mods here's an easy method below. It works independently of the updater and supports old verions of Factorio.
